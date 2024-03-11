@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=L4D2 Map Downloader
+Exec=curl https://raw.githubusercontent.com/M0nheim/l4d2-deck-mods-downloader/main/download.sh | bash -s --
+Icon=download
+StartupNotify=false
+Terminal=true
+Type=Application
