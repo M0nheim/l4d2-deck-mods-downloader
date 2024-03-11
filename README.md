@@ -1,4 +1,4 @@
-Absolutey terrible script to make downloading predefined (by me) L4D2 maps onto the Steam Deck easier. 
+Absolutey terrible script to make downloading pre-determined (by me) L4D2 maps onto the Steam Deck easier. 
 
 How to use:
 
